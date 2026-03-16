@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>Hi, I'm **Kunal Lokhande**, a passionate **Java Full Stack Developer** who enjoys building scalable and efficient web applications.<br><br>💻 **Tech Stack:**<br><br>* Java<br>* Spring & Spring Boot<br>* JSP / Servlets<br>* MySQL<br>* HTML, CSS, JavaScript, Bootstrap<br>* Git & GitHub<br><br>🚀 I enjoy developing **full-stack web applications**, strengthening my **backend development skills**, and exploring modern technologies.<br><br>📚 **Currently Learning:**<br><br>* Advanced Spring Boot<br>* REST API Development<br>* Microservices Architecture<br><br>🎯 **Goal:**<br>To become a highly skilled **Java Backend / Full Stack Developer** and contribute to building real-world scalable applications.<br><br>📫 **Connect with me:**<br>GitHub: https://github.com/Dev-Kunal-Lokhande<br>
 
 
